@@ -117,7 +117,7 @@ VALUES
 INSERT INTO SpotifyClone.authors (id_author, author_name)
 VALUES
   (1, 'Walter Phoenix'),
-  (2, 'Peter Song'),
+  (2, 'Peter Strong'),
   (3, 'Lance Day'),
   (4, 'Freedie Shannon'),
   (5, 'Tyler Isle'),
