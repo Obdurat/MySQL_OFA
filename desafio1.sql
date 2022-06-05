@@ -4,7 +4,7 @@ CREATE DATABASE SpotifyClone ;
 CREATE TABLE SpotifyClone.subscriptions (
   subscription_id INT NOT NULL AUTO_INCREMENT,
   subscription_type VARCHAR(45) NULL,
-  subscription_value FLOAT(3,2) NULL,
+  subscription_value DECIMAL(3,2) NULL,
   PRIMARY KEY (subscription_id))
 ENGINE = InnoDB;
 
